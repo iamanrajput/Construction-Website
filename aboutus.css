@@ -1,0 +1,294 @@
+#d1
+{
+	width:1500;
+	top:0px;
+	left:0;
+	height:280px;
+	position:relative;
+    background-color:#5799e5;
+	text-align:center;
+	font-size:60px;
+	 
+}
+#img
+{
+    width:100%;
+	top:0px;
+	left:0;
+	height:280px;
+	position:relative;
+    opacity:0.9;
+	
+}
+
+#d2
+{
+	width:140px;
+	height:30px;
+	top:293px;
+	border-top-right-radius:0px;
+	border-top-left-radius:0px;
+	border-bottom-left-radius:0px;
+	padding:20px;
+	background-color:#030303;
+	left:80px;
+	position:absolute;	
+	font-size:28px;
+	color:fff;
+	box-shadow:10px 10px 10px #999;
+	text-align:center;
+	opacity:.8;
+	
+}
+#d3
+{
+	width:140px;
+	height:30px;
+		border-top-right-radius:0px;
+	border-top-left-radius:0px;
+	padding:20px;
+	background-color:#000407;
+    left:275px;
+	top:293px;
+	position:absolute;	
+	font-size:28px;
+	box-shadow:10px 10px 10px #999;
+	text-align:center;
+	opacity:.8;
+	color:fff;
+}
+
+#d4
+{
+	width:145px;
+	height:30px;
+		border-top-right-radius:0px;
+	border-top-left-radius:0px;
+	padding:20px;
+	background-color:#000307;
+	margin-left:60px;
+	position:absolute;	
+	left:410px;
+	top:293px;
+	font-size:26px;
+	box-shadow:10px 10px 10px #999;
+	text-align:center;
+	opacity:.8;
+	color:fff;
+	
+}
+
+#d5
+{
+	width:140px;
+	height:30px;
+		border-top-right-radius:0px;
+		border-top-left-radius:0px;
+	font-size:28px;
+	padding:20px;
+	background-color:#01070c;
+	margin-left:60px;
+	position:absolute;	
+	left:605px;
+	top:293px;
+	box-shadow:10px 10px 10px #999;
+	text-align:center;
+	opacity:.8;
+	color:fff;
+}
+
+#d6
+{
+	width:140px;
+	height:30px;
+	border-top-right-radius:0px;
+	border-top-left-radius:0px;
+	font-size:28px;
+	padding:20px;
+	background-color:#000509;
+	margin-left:60px;
+	position:absolute;
+	top:293px;
+	left:800px;
+	box-shadow:10px 10px 10px #999;
+	text-align:center;
+	opacity:.8;
+	color:fff;
+}
+#d7
+{
+	width:140px;
+	height:30px;
+	border-top-right-radius:0px;
+	border-top-left-radius:0px;
+	font-size:28px;
+	padding:20px;
+	background-color:#00050a;
+	margin-left:60px;
+	position:absolute;
+	top:293px;
+	left:995px;
+	box-shadow:10px 10px 10px #999;
+	text-align:center;
+	opacity:.8;
+	color:fff;
+}
+#d8
+{
+	width:140px;
+	height:30px;
+	border-top-right-radius:0px;
+	border-top-left-radius:0px;
+	font-size:28px;
+	padding:20px;
+	background-color:#000305;
+	margin-left:60px;
+	position:absolute;
+	top:293px;
+	left:1195px;
+	box-shadow:10px 10px 10px #999;
+	text-align:center;
+	opacity:.8;
+	color:fff;
+}
+#d11
+{
+	position:absolute;
+	top:500px;
+	left:50px;
+	width:250px;
+	height:150px;
+	background-color:#5799e5;
+	
+}
+#d12
+{
+	position:absolute;
+	top:500px;
+	left:385px;
+	width:600px;
+	height:370px;
+	background-color:#5799e5;
+	
+}
+#d17
+{
+	position:absolute;
+	top:980px;
+	left:385px;
+	width:600px;
+	height:440px;
+	background-color:#fff;
+	
+}
+#17r
+{
+	position:relative;
+	right:10px;
+	top:350px;
+}
+#d177
+{
+	position:absolute;
+	top:1470px;
+	left:385px;
+	width:600px;
+	height:530px;
+	background-color:#fff;
+	
+}
+#d13
+{
+	position:absolute;
+	top:300px;
+	left:1050px;
+	width:250px;
+	height:150px;
+	background-color:#5799e5;
+	
+}
+#d14
+{
+	position:absolute;
+	top:470px;
+	left:50px;
+	width:300px;
+	height:650px;
+	background-color:#d9d9d9;
+	
+}
+#d144
+{
+	position:absolute;
+	top:1130px;
+	left:50px;
+	width:300px;
+	height:590px;
+	background-color:#d9d9d9;
+	
+}
+#d15
+{
+	position:absolute;
+	top:470px;
+	left:1015px;
+	width:300px;
+	height:650px;
+	background-color:#d9d9d9;
+	
+}
+#d155
+{
+	position:absolute;
+	top:1130px;
+	left:1015px;
+	width:300px;
+	height:590px;
+	background-color:#d9d9d9;
+	
+}
+#d16
+{
+	position:absolute;
+	top:2030px;
+	left:0px;
+	width:100%;
+	height:85px;
+	background-color:#d9d9d9;
+	
+}
+#d2:hover
+{
+    background-color:orange;
+	box-shadow:none;
+}
+#d3:hover
+{
+    background-color:orange;
+	box-shadow:none;
+}
+#d4:hover
+{
+    background-color:orange;
+	box-shadow:none;
+}
+#d5:hover
+{
+    background-color:orange;
+	box-shadow:none;
+}
+#d6:hover
+{
+    background-color:orange;
+	box-shadow:none;
+}
+#d7:hover
+{
+    background-color:orange;
+	box-shadow:none;
+}
+#d8:hover
+{
+    background-color:orange;
+	box-shadow:none;
+}
